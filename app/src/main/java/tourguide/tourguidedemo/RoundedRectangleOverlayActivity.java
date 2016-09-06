@@ -29,7 +29,7 @@ public class RoundedRectangleOverlayActivity extends ActionBarActivity {
 
         ToolTip toolTip = new ToolTip().
                 setTitle("Hello!").
-                setDescription("Click to view tutorial. Next button is disabled until tutorial is viewed");
+                setDescription("This is an example of a RoundedRectangle Overlay");
 
         Overlay overlay = new Overlay()
                 .setBackgroundColor(Color.parseColor("#AAFF0000"))
